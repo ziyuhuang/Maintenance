@@ -1,0 +1,27 @@
+{
+  "name": "maintenance",
+  "version": "1.0.0",
+  "description": "to show a message that the app is under maintenance and let users come back later",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziyuhuang/Maintenance.git"
+  },
+  "author": "ziyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziyuhuang/Maintenance/issues"
+  },
+  "homepage": "https://github.com/ziyuhuang/Maintenance#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
