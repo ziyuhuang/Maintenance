@@ -22,7 +22,7 @@ class App extends Component {
       <div className="App">
         {/* {this.state.world} */}
         <div className="message">
-          W3id is under maintenance until May 10th to 11, please come back after.
+          CrushIT Server is scheduled maintenance till May 28 Tuesday, 8:00 am PST. Please come back after.
         </div>
       </div>
     );
